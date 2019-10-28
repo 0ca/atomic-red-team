@@ -22,7 +22,6 @@ atomic_tests:
     Identify System Info
 
   supported_platforms:
-    - linux
     - macos
 
   executor:
@@ -38,7 +37,6 @@ atomic_tests:
 
   supported_platforms:
     - linux
-    - macos
 
   executor:
     name: sh
